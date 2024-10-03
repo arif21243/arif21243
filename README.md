@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @arif21243 (Muhammad Arif)
+- 👀 I’m interested in AI systems, networking, and hardware engineering.
+- 🌱 I’m currently learning advanced AI system integration, GPU optimization, and cybersecurity.
+- 💞️ I’m looking to collaborate on AI-based projects, system optimization, and network engineering solutions.
+- 📫 How to reach me: arif21243@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy working with dual RTX 4090 GPUs and building cutting-edge AI systems.
